@@ -1,4 +1,4 @@
-import { Text } from 'src/ui/text';
+import { Text } from '../text/index';
 
 import styles from './Button.module.scss';
 import { clsx } from 'clsx';
